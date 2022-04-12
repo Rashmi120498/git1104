@@ -18,6 +18,7 @@ public void EmployeeDetails() {
 		System.out.println("Employee gender is :"+ empGender);
 		System.out.println("Employee city is :"+ empCity);
 		System.out.println("Employee email is :"+ empEmail);
+		System.out.println("Employee Details");
 	}
 	
 	
